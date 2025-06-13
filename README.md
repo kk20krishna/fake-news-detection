@@ -1,6 +1,6 @@
 # Fake News Detection Using Semantic Classification
 
-This project addresses the widespread issue of **fake news** by developing a machine learning system that classifies news articles as either **true** or **fake** using **Word2Vec embeddings** and supervised learning models. It was created as part of an academic assignment by **Krishna Kumar S.** and **Varun B.**
+This project addresses the widespread issue of **fake news** by developing a machine learning system that classifies news articles as either **true** or **fake** using **Word2Vec embeddings** and supervised learning models.
 
 ---
 
@@ -112,7 +112,6 @@ The semantic classification approach using Word2Vec was successful in differenti
 ## Authors
 
 - **Krishna Kumar S.**
-- **Varun B.**
 
 ---
 
